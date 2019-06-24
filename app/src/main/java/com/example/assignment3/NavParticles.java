@@ -11,7 +11,7 @@ import android.view.View;
 import android.widget.Button;
 
 
-public class NavParticles extends MainActivity {
+public class NavParticles extends AppCompatActivity {
 
     private Button getMap;
     @Override
